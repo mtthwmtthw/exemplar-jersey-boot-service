@@ -31,7 +31,5 @@ public class HelloWorld {
 	public String getMessage() {
 		return message;
 	}
-
-	
 	
 }

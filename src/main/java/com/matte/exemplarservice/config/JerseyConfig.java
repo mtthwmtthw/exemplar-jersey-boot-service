@@ -6,6 +6,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 
 @Named
 public class JerseyConfig extends ResourceConfig {
+	
 	public JerseyConfig() {
 		packages("com.matte.exemplarservice.resource");
 	}
